@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleTracker", "PeopleTracker\PeopleTracker.csproj", "{B47B1C46-085C-40D9-816D-024389583C47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6305DE4A-5159-4FC7-90DE-358F18D3B513}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47B1C46-085C-40D9-816D-024389583C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47B1C46-085C-40D9-816D-024389583C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47B1C46-085C-40D9-816D-024389583C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47B1C46-085C-40D9-816D-024389583C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC0DEDF9-C1C8-4881-AAB3-81EACDAEE362}
+	EndGlobalSection
+EndGlobal
