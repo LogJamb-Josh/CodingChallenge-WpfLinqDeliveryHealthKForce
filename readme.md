@@ -14,9 +14,12 @@ I'm quite good at Linq so the rest was understanding the logic of the instructio
 After the code challenge was done and the meeting was over, I did complete the task.  I timed it and It took me 45 minutes to complete.  I suspect if I was familiar with the type of project and I didn't waste the first 30+ minutes figuring out what was going on, I would have completed the whole thing.
 
 ## Feedback
-Feedback was brief because we were out of time and ended up going 8 minutes over for the review part.  It was mentioned that if I scrolled up I would see an error.  Only now am I realizing I was using System.Linq twice.  I was also called out on my date math flub.  Fair point.  Also, it was briefly pointed out at one point my logic was wrong.  I blame that of vague wording.  Possibly a cultural thing.
+Feedback was brief because we were out of time and ended up going 8 minutes over for the review part.  It was mentioned that if I scrolled up I would see an error.  Only now am I realizing I included "using System.Linq" twice.  I was also called out on my date math flub.  Fair point.  Also, it was briefly pointed out at one point my logic was wrong.  I blame that of vague wording.  Possibly a cultural thing.
 
 Otherwise, the feedback was that I appeared to have a fair grasp of the tech and did a good job.  I felt like they were sincere.
 
 ## My Opinion
 I think this was a WPF app.  I spent the first 30+ minutes figuring out how a WPF app works.  I suppose this demonstrates that I have the ability to learn and adapt.  It very much reminded me of finals week back in Computer Science school.  But, I'm not a WPF developer.  I'm working with Blazor.  If they had just asked me about my Linq experience, I could have sent them the [other 2 day test I just took](https://github.com/LogJamb-Josh/CodingChallenge-DemoWebApiApex)
+
+## Final Result
+On 3/7/2022, I got a call saying I didn't get an offer on this job.  Two reasons were given.  1) I didn't demonstrate I knew C#.  According to them, I took a full 20 minutes to write the first line of code in the WPF app.  2) I didn't want to be a contractor.  
