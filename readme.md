@@ -22,4 +22,4 @@ Otherwise, the feedback was that I appeared to have a fair grasp of the tech and
 I think this was a WPF app.  I spent the first 30+ minutes figuring out how a WPF app works.  I suppose this demonstrates that I have the ability to learn and adapt.  It very much reminded me of finals week back in Computer Science school.  But, I'm not a WPF developer.  I'm working with Blazor.  If they had just asked me about my Linq experience, I could have sent them the [other 2 day test I just took](https://github.com/LogJamb-Josh/CodingChallenge-DemoWebApiApex)
 
 ## Final Result
-On 3/7/2022, I got a call saying I didn't get an offer on this job.  Two reasons were given.  1) I didn't demonstrate I knew C#.  According to them, I took a full 20 minutes to write the first line of code in the WPF app.  2) I didn't want to be a contractor.  
+On 3/7/2022, I got a call saying I didn't get an offer on this job.  One reason was because I was seeking full-time employment instead of being a contractor.  I made it clear in every conversation I was seeking a full time full stack Blazor/C#/Azure position.  This whole thing was a waste of time from the beginning.  Very frustrating.
