@@ -1,5 +1,5 @@
-# Coding Challenge for Delivery Health
-On 3/3/2022, I accepted a 1.5 hour coding challenge from Deliver Health.  I had already met with Tech Executive 1 and Tech Executive 2.  Both were super nice guys that struck me as very smart.  
+# Coding Challenge for Anonymous Company
+On 3/3/2022, I accepted a 1.5 hour coding challenge from Anonymous Tech Company.  I had already met with Tech Executive 1 and Tech Executive 2.  Both were super nice guys that struck me as very smart.  
 
 ## Original Instructions
 The instructions were spartan, as expected.  Download and unzip this solution and edit only this single file named Answers.cs.  The methods are defined.  Edit the body of each method as instructed.  If I google anything, do it on the screen I am sharing.  Both Tech Executive 1 and Tech Executive 2 watched me type.
