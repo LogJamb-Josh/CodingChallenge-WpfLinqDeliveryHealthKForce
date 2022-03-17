@@ -1,11 +1,11 @@
 # Coding Challenge for Anonymous Company
-On 3/3/2022, I accepted a 1.5 hour coding challenge from Anonymous Tech Company.  I had already met with Tech Executive 1 and Tech Executive 2.  Both were super nice guys that struck me as very smart.  
+On 3/3/2022, I accepted a 1.5 hour coding challenge from health care company.  I had already met with these two guys once before.  Both were super nice and smart guys.  
 
 ## Original Instructions
 The instructions were spartan, as expected.  Download and unzip this solution and edit only this single file named Answers.cs.  The methods are defined.  Edit the body of each method as instructed.  If I google anything, do it on the screen I am sharing.  Both Tech Executive 1 and Tech Executive 2 watched me type.
 
 ## My Experience
-I checked the time exactly 30 minutes after the meeting started.  It was then I was first starting to understand how the project worked.  I had no experience with this type of project.  The naming conventions were weird.  Their method was named *AllowAdd()*.  I would have named it *CanAllowAdd()*.  I'm accustomed to those doing different things.  *AllowAdd()* would do something.  *CanAllowAdd()* answers a question.  It took me a bit to understand what was happening.  This might be a cultural thing.
+I checked the time exactly 30 minutes after the meeting started (20 minutes after starting the test).  It was then I was first starting to understand how the project worked.  I had no experience with this type of project.  The naming conventions were weird.  Their method was named *AllowAdd()*.  I would have named it *CanAllowAdd()*.  I'm accustomed to those doing different things.  *AllowAdd()* would do something.  *CanAllowAdd()* answers a question.  It took me a bit to understand what was happening.  This might be a cultural thing.
 
 Once I understood the project and how it worked, I encountered a casting error I'd never seen before.  I asked the test administrators if this was part of the test and they said yes.  Google revealed I had to include Linq and add a ToList() to the end and it was then I realized this Code Challenge was about two things.  1) Can I use logic to understand Visual Studio and how projects work,  and 2) Can I use Linq.
 
@@ -19,7 +19,7 @@ Feedback was brief because we were out of time and ended up going 8 minutes over
 Otherwise, the feedback was that I appeared to have a fair grasp of the tech and did a good job.  I felt like they were sincere.
 
 ## My Opinion
-I think this was a WPF app.  I spent the first 30+ minutes figuring out how a WPF app works.  I suppose this demonstrates that I have the ability to learn and adapt.  It very much reminded me of finals week back in Computer Science school.  But, I'm not a WPF developer.  I'm working with Blazor.  If they had just asked me about my Linq experience, I could have sent them the [other 2 day test I just took](https://github.com/LogJamb-Josh/CodingChallenge-DemoWebApiApex)
+I think this was a WPF app.  I spent the first 30 minutes figuring out how a WPF app works.  I suppose this demonstrates that I have the ability to learn and adapt.  It very much reminded me of finals week back in Computer Science school.  But, I'm not a WPF guy.  I'm working with Blazor.  If they had just asked me about my Linq experience, I could have sent them the [other 2 day test I just took](https://github.com/LogJamb-Josh/CodingChallenge-DemoWebApiApex)
 
 ## Final Result
 On 3/7/2022, I got a call saying I didn't get an offer on this job.  One reason was because I was seeking full-time employment instead of being a contractor.  I made it clear in every conversation I was seeking a full time full stack Blazor/C#/Azure position.  This whole thing was a waste of time from the beginning.  Very frustrating.
